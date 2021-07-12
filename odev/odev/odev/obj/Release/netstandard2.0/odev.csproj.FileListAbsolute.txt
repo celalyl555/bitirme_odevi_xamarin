@@ -1,0 +1,14 @@
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\bin\Release\netstandard2.0\odev.deps.json
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\bin\Release\netstandard2.0\odev.dll
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\bin\Release\netstandard2.0\odev.pdb
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\obj\Release\netstandard2.0\odev.csprojAssemblyReference.cache
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\obj\Release\netstandard2.0\Detail.xaml.g.cs
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\obj\Release\netstandard2.0\Master.xaml.g.cs
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\obj\Release\netstandard2.0\odev.csproj.CoreCompileInputs.cache
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\obj\Release\netstandard2.0\odev.AssemblyInfoInputs.cache
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\obj\Release\netstandard2.0\odev.AssemblyInfo.cs
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\obj\Release\netstandard2.0\odev.dll
+C:\Users\celal\OneDrive\Masaüstü\Yeni klasör\tez\odev\odev\odev\obj\Release\netstandard2.0\odev.pdb

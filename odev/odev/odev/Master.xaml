@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="odev.Master"
+             Title="master"
+             BackgroundColor="Red"
+             Icon="menu.png"
+             >
+    
+    //Dolar kurlarını seçebilmemiz için butunlar bu kısımda oluşturulmakta
+    <StackLayout Padding="20">
+        <Button x:Name="dolar_btn" Text="DOLAR"/>
+        <Button x:Name="euro_btn" Text="EURO"/>
+        <Button x:Name="sterlin_btn" Text="STERLİN"/>
+        <Button x:Name="yen_btn" Text="YEN"/>
+        <Button x:Name="kron_btn" Text="KRON"/>
+        <Button x:Name="dinar_btn" Text="DİNAR"/>
+    </StackLayout>
+    
+    
+    
+    
+</ContentPage>
